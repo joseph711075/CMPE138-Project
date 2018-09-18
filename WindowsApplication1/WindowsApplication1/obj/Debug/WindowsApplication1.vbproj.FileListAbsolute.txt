@@ -1,0 +1,23 @@
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.player.resources
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+\\vmware-host\Shared Folders\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.player.resources
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Joel7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

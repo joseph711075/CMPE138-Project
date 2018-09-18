@@ -1,0 +1,16 @@
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\CMPE138-Project.exe.config
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\CMPE138-Project.exe
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\CMPE138-Project.pdb
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\CMPE138-Project.xml
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\MySql.Data.dll
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\bin\Debug\MySql.Data.xml
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.vbprojResolveAssemblyReference.cache
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138_Project.Form1.resources
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138_Project.Resources.resources
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.vbproj.GenerateResource.cache
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.vbproj.CoreCompileInputs.cache
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.vbproj.CopyComplete
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.exe
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.xml
+C:\Users\Joel7\Desktop\CMPE138-Project\CMPE138-Project\obj\Debug\CMPE138-Project.pdb
